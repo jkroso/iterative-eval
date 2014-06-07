@@ -1,0 +1,21 @@
+{
+  "name": "iterative-eval",
+  "version": "0.1.0",
+  "description": "Iteratively evaluate code in a single context as you would in a repl",
+  "keywords": ["iterative","incremental","eval","interpret"],
+  "dependencies": {
+    "eval-as-module": "*"
+  },
+  "devDependencies": {
+    "serve": "jkroso/serve",
+    "better-assert": "*",
+    "hydro-bdd": "*",
+    "hydro-dot": "*",
+    "hydro": "*",
+    "jsmd": "*"
+  },
+  "repository": "git://github.com/jkroso/iterative-eval.git",
+  "author": "Jake Rosoman",
+  "files": ["index.js"],
+  "license": "MIT"
+}
